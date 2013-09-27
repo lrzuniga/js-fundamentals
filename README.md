@@ -8,17 +8,17 @@ Please clone the repo, remove the remote and commit your solutions to your own r
 
 * [JS Overview](https://github.com/lrzuniga/js-fundamentals/wiki/1-Overview) - lz
 * [JS Datatypes and Variables](https://github.com/lrzuniga/js-fundamentals/wiki/2-Data-Types-and-Variables) -lz
-* [JS Variables Exercises](https://github.com/lrzuniga/js_week/js_fundamentals/variables.js) -lz
+* [JS Variables Exercises](https://github.com/lrzuniga/js_week/variables.js) -lz
 * [JS Functions](https://github.com/lrzuniga/js-fundamentals/wiki/3-Functions) -lz
-* [JS Functions Exercises](https://github.com/lrzuniga/js-fundamentals/js_fundamentals/functions.js) -lz
+* [JS Functions Exercises](https://github.com/lrzuniga/js-fundamentals/functions.js) -lz
 * [JS Control Flow & Arrays](https://github.com/lrzuniga/js-fundamentals/wiki/4-Control-Flow-&-Arrays) -lz
-* [JS Control Flow Exercises](https://github.com/lrzuniga/js-fundamentals/js_fundamentals/ifelse.js) -lz
-* [JS Array Exercises](https://github.com/lrzuniga/js-fundamentals/js_fundamentals/arrays.js) -lz
+* [JS Control Flow Exercises](https://github.com/lrzuniga/js-fundamentals/ifelse.js) -lz
+* [JS Array Exercises](https://github.com/lrzuniga/js-fundamentals/arrays.js) -lz
 * [JS Objects & the DOM](https://github.com/lrzuniga/js-fundamentals/wiki/5-Objects-&-the-DOM) -lz
-* [JS Objects Exercises](https://github.com/lrzuniga/js-fundamentals/js_fundamentals/objects.js) -lz
-* [JS DOM Exercises](https://github.com/lrzuniga/js-fundamentals/js_fundamentals/dom.js)
+* [JS Objects Exercises](https://github.com/lrzuniga/js-fundamentals/objects.js) -lz
+* [JS DOM Exercises](https://github.com/lrzuniga/js-fundamentals/dom.js)
 * [jQuery](https://github.com/lrzuniga/js-fundamentals/wiki/6-jQuery)
 * [jQuery - Try jQuery by CodeSchool Exercises](http://www.codeschool.com/courses/try-jquery)
 * [jQuery Exercises](https://github.com/lrzuniga/js-fundamentals/jquery_fundamentals/index.html)
 * [JS Code Organization](https://github.com/lrzuniga/js-fundamentals/wiki/7-Code-Organization)
-* [JS Optional Exercises](https://github.com/lrzuniga/js-fundamentals/js_fundamentals/optional.js)
+* [JS Optional Exercises](https://github.com/lrzuniga/js-fundamentals/optional.js)
