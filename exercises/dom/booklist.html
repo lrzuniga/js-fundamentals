@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Book List</title>
+</head>
+<body>
+
+  <h1>My Book List</h1>
+
+</body>
+
+<script type="text/javascript">
+  var book = [
+    {
+      title: "Winnie the Poo", 
+      author: "George Orwell", 
+      alreadyRead: true
+    }, 
+    {
+      title: "Moby Dick", 
+      author: "Herman Melville",
+      alreadyRead: true
+    }, 
+    { 
+      title: "Salem Road", 
+      author: "Poosh Mandeer", 
+      alreadyRead: false
+    }
+  ];  
+
+for ( i = 0 ; i < book.length ; i++){
+  document.write("<p>" + book[i].title + " by " + book[i].author + "</p>");
+}
+</script>
+
+
+</html>
